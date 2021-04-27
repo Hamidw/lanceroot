@@ -19,7 +19,7 @@ The guide contains different folders for each step, the instructions and the fil
 
 ## Downloads
 
-[Github](https://github.com/topjohnwu/Magisk/) is the only source where you can get official Magisk information and downloads.
+[Github](https://github.com/Hamidw/lanceroot/), [XDA](https://www.google.com) and my social networks are the only source where you can get official Lanceroot information and downloads.
 
 [![](https://img.shields.io/badge/Magisk-v22.1-blue)](https://github.com/topjohnwu/Magisk/releases/tag/v22.1)
 [![](https://img.shields.io/badge/Magisk%20Beta-v22.1-blue)](https://github.com/topjohnwu/Magisk/releases/tag/v22.1)
