@@ -10,11 +10,11 @@ The guide contains different folders for each step, the instructions and the fil
 - **1 - Unlock Bootloader**: Unlocking Xiaomi Phone Bootloader, to have the possibility to flash custom ROMs and recoveries
 
 - **2 - Install Stock ROM**: Flashing MIUI stock ROM to avoid some errors, many users reported bootloops or custom recovery not appearing after flashing from MIUI 12
-- 
+
 - **3 - Flashing a Custom Recovery**: Flashing a custom recovery image to have more flexibility, backup, restore and manage advanced settings. This is also needed to install custom ROMs
-- 
+
 - **4 - Flashing a Custom ROM**: install a custom system based on AOSP (Android Open Source Project by Google) on which you have full access and more customisation
-- 
+
 - **5 - Rooting with Magisk**: Gaining super-user privileges and be able to execute elevated commands, access hidden system partitions, remove bloatware apps, increase battery life, install custom fonts and many more. 
 
 ## Downloads
