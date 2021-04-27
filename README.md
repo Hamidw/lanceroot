@@ -4,8 +4,8 @@
 
 ## Introduction
 
-Magisk is a suite of open source software for customizing Android, supporting devices higher than Android 5.0.<br>
-Here are some feature highlights:
+Lanceroot (contraction of Lancelot, and Root) is a complete course and guide to customize, root, install custom ROMs... on your Xiaomi Redmi 9
+The guide contains different folders for each step, the instructions and the files required, no need to worry about it, everything is ready to use, here are the 
 
 - **MagiskSU**: Provide root access for applications
 - **Magisk Modules**: Modify read-only partitions by installing modules
